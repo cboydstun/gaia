@@ -5,9 +5,9 @@ title: What is Gaia?
 
 # What is Gaia?
 
-`gaia` is the name of the Cosmos SDK application for the Cosmos Hub. It comes with 2 main entrypoints:
+The Cosmos Hub is built using the Cosmos SDK namedf `gaia` and compiled to a binary called `gaiad` (Gaia Daemon).
 
-- `gaiad`: The Gaia Daemon and command-line interface (CLI). runs a full-node of the `gaia` application.
+- `gaiad`: The Gaia Daemon and command-line interface (CLI) runs a full-node of the `gaia` application.
 
 `gaia` is built on the Cosmos SDK using the following modules:
 
